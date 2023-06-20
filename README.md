@@ -39,7 +39,7 @@
 <div id="projects">
   <h2>Projects</h2>
   
-  <h3>Project 1: <a href="https://github.com/HichamZerzour/Chat-Application__Solidity_Next.js-WEB3">Chat Application ( WEB 3)</a></h3>
+  <h3>Project 1: <a href="https://github.com/HichamZerzour/Chat-Application__Solidity_Next.js-WEB3" target="_blank">Chat Application ( WEB 3)</a></h3>
   <p>
     A <b>Decentralized</b> chat application, based on the Ethereum networks (WEB 3),
     The application allows you to connect, send and receive messages with a simple notification system using the blockchain concept.
@@ -52,7 +52,7 @@
   </ul>
   </p>
   
-  <h3>Project 2: <a href="https://github.com/HichamZerzour/Crowdfunding__Solidity_React-Web3">Crowdfunding  ( WEB 3)</a></h3>
+  <h3>Project 2: <a href="https://github.com/HichamZerzour/Crowdfunding__Solidity_React-Web3" target="_blank">Crowdfunding  ( WEB 3)</a></h3>
   <p>
   A crowdfunding application, allows you to create and apply for your project, <br>
   And to collect and receive funds on the Ethereum network
@@ -65,7 +65,7 @@
 </ul>
 </p>
 
-<h3>Project 3: <a href="https://github.com/HichamZerzour/NFT-Minting__Solidity_React-WEB3">NFT Minting  ( WEB 3)</a></h3>
+<h3>Project 3: <a href="https://github.com/HichamZerzour/NFT-Minting__Solidity_React-WEB3" target="_blank">NFT Minting  ( WEB 3)</a></h3>
 <p>
   An application for NFT Minting, allows you to generate an NFT, and allows you to do Minting easily with a button. <br>
   The Application connects to MetaMask and checks whether the amount requested for the NFT exists or not.
@@ -78,7 +78,7 @@
 </ul>
 </p>
 
-<h3>Project 4: <a href="https://github.com/HichamZerzour/ANDPORY_Laravel_React">ANDPORY WEBSITE (Web 2)</a></h3>
+<h3>Project 4: <a href="https://github.com/HichamZerzour/ANDPORY_Laravel_React" target="_blank">ANDPORY WEBSITE (Web 2)</a></h3>
 <p>
   Website for booking an appointment at the hairdresser, <br>
   with a small admin interface for managing appointments, and notifying customers.
@@ -90,7 +90,7 @@
 </ul>
 </p>
 
-<h3>Project 5: <a href="https://github.com/HichamZerzour/Crypto-Wallet__Solidity_react-WEB3">Crypto Wallet (Web 3)</a></h3>
+<h3>Project 5: <a href="https://github.com/HichamZerzour/Crypto-Wallet__Solidity_react-WEB3" target="_blank">Crypto Wallet (Web 3)</a></h3>
 <p>
   Application allows to make decentralized transaction of Crypto currency,<br>
   The application connects to MetaMask check the amount requested to transfer and make the transaction <br>
